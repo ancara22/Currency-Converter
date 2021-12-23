@@ -42,6 +42,4 @@ class CurrencyConverter:                    # Create class
         self.amountToConvertVar.set("")
         self.amountToRateVar.set("")
 
-
 CurrencyConverter()
-
